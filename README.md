@@ -1,2 +1,3 @@
-# run-plan-builder
-App to help you build a training plan based on a series of smart questions.
+# 🏃‍♀️ Run Plan Builder
+
+After answering a few simple questions, we'll create a running plan for you following best practices.
